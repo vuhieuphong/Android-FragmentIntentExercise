@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hieu_Phong_Vu_COMP304_Sec003_Lab02_Ex2B</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MainCreate">Main onCreate() executed</string>
+    <string name="MainStart">Main onStart() executed</string>
+    <string name="MainResume">Main onResume() executed</string>
+    <string name="MainPause">Main onPause() executed</string>
+    <string name="MainStop">Main onStop() executed</string>
+    <string name="MainDestroy">Main onDestroy() executed</string>
+    <string name="Frag1Create">Fragment 1 onCreateView() executed</string>
+    <string name="Frag1Start">Fragment 1 onStart() executed</string>
+    <string name="Frag2Create">Fragment 2 onCreateView() executed</string>
+    <string name="Frag2Start">Fragment 2 onStart() executed</string>
+    <string name="AICreate">AI onCreate() executed</string>
+    <string name="AIStart">AI onStart() executed</string>
+    <string name="AIResume">AI onResume() executed</string>
+    <string name="AIPause">AI onPause() executed</string>
+    <string name="AIStop">AI onStop() executed</string>
+    <string name="AIDestroy">AI onDestroy() executed</string>
+    <string name="VRCreate">VR onCreate() executed</string>
+    <string name="VRStart">VR onStart() executed</string>
+    <string name="VRResume">VR onResume() executed</string>
+    <string name="VRPause">VR onPause() executed</string>
+    <string name="VRStop">VR onStop() executed</string>
+    <string name="VRDestroy">VR onDestroy() executed</string>
+</resources>
